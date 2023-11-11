@@ -6,7 +6,7 @@ This repository contains solutions to various algorithm problems. Each problem i
 
 ### [Problem 1: Prime Numbers](link_to_first_problem)
 **Description:** In this problem, you are tasked with finding the prime number at a specific position in the sequence.  
-**Solution:** [FirstProblem.java](link_to_code)  
+**Solution:** [FirstProblem.java](master/src/FirstProblem.java)  
 **YouTube Solution:** ([YouTube Video](https://www.youtube.com/watch?v=scweD1w9udE&t=5s))
 
 ### [Problem 2: Fibonacci Sequence](link_to_second_problem)
